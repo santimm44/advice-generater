@@ -24,3 +24,8 @@ Things to turn in:
     Node Modules deleted
     Azure or Vercel hosted link
     Github link
+
+Reviewed:
+    
+    Great job, everything is functioning and your responsiveness is very efective!
+    
